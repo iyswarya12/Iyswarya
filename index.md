@@ -21,7 +21,6 @@ I'm a Performance and Capacity Engineer at Facebook in CEA Resource Foundation t
 - Networking lessons: From computers to water”, Iyswarya Narayanan, Venkatesh Sarangan, Arunchandar Vasan, Arvind Srinivasan, Anand Sivasubramaniam, in Proceedings of Energy in Communication, Information, and Cyber-physical Systems Workshop, COMSNETS 2012. Runner-up for best paper
 
 ## Awards and Honours
-
 - Research Assistant Award, The Pennsylvania State University (2018)
 - Invited to attend Google accelerated compute summit, Mountain View, CA  (2018)
 - Best Student Paper Award, SYSTOR  (2016)
