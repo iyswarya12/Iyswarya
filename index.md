@@ -20,7 +20,7 @@ My name is Iyswarya Narayanan. I'm a Performance and Capacity Engineer at Facebo
 - Networking lessons: From computers to water, Iyswarya Narayanan, Venkatesh Sarangan, Arunchandar Vasan, Arvind Srinivasan, Anand Sivasubramaniam. In Energy in Communication, Information, and Cyber-physical Systems Workshop, COMSNETS 2012. _Runner-up for best paper_
 
 ## Awards and Honours
-- Research Assistant Award, The Pennsylvania State University (2018)
+- Outstanding Research Assistant Award, The Pennsylvania State University (2018)
 - Invited to attend Google accelerated compute summit, Mountain View, CA  (2018)
 - Best Student Paper Award, SYSTOR  (2016)
 - College of Engineering Fellowship, The Pennsylvania State University  (2013-2016)
