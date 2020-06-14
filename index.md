@@ -1,4 +1,4 @@
-I'm a Performance and Capacity Engineer at Facebook in CEA Resource Foundation team. I graduated with a PhD in Computer Science and Engineering from Penn State in 2019. My PhD advisor is Prof. Anand Sivasubramaniam. I'm broadly interested in datacenter scale computing with a focus on capacity provisioning, power/energy management, and storage systems and data analytics. 
+I'm a Performance and Capacity Engineer at Facebook in CEA Resource Foundation team. I graduated with a PhD in Computer Science and Engineering from Penn State in 2019. My PhD advisor is Prof. Anand Sivasubramaniam. I'm broadly interested in datacenter scale computing with a focus on capacity provisioning, power/energy management, storage systems and data analytics. 
 
 ## Publications
 
