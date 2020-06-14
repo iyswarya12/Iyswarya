@@ -1,7 +1,7 @@
 My name is Iyswarya Narayanan. I'm a Performance and Capacity Engineer at Facebook in CEA Resource Foundation team. I graduated with a PhD in Computer Science and Engineering from Penn State in 2019. My PhD advisor is Prof. Anand Sivasubramaniam. I'm broadly interested in datacenter scale computing with a focus on capacity provisioning, power/energy management, storage systems and data analytics. 
 
 ## Publications
-- The Fast and The Frugal: Tail Latency Aware Provisioning for Coping with Load Variations. Adithya Kumar, Iyswarya Narayanan, Timothy Zhu, Anand Sivasubramaniam, in the Web Conference (WWW), 2020
+- The Fast and The Frugal: Tail Latency Aware Provisioning for Coping with Load Variations. Adithya Kumar, Iyswarya Narayanan, Timothy Zhu, Anand Sivasubramaniam. In the Web Conference (WWW), 2020
 - Mediating Power Struggles on a Shared Server. Iyswarya Narayanan, Anand Sivasubramaniam. In International Symposium on Performance Analysis of Systems and Software (ISPASS), April 2020.
 - Getting More Performance with Polymorphism from Emerging Memory Technologies, Iyswarya Narayanan, Aishwarya Ganesan, Anirudh Badam, Sriram Govindan, Bikash Sharma, Anand Sivasubramaniam. In International Systems and Storage Conference (SYSTOR), 2019.
 - Evaluating Energy Storage for a Multitude of Uses in the Datacenter, Iyswarya Narayanan, Di Wang, Abdullah-al Mamun, Anand Sivasubramaniam, Hosam K. Fathy, Sean James. In International Symposium on Workload Characterization (IISWC) 2017. 
