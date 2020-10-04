@@ -2,7 +2,7 @@ My name is Iyswarya Narayanan. I'm a Performance and Capacity Engineer at Facebo
 
 ## Publications
 - The Fast and The Frugal: Tail Latency Aware Provisioning for Coping with Load Variations. Adithya Kumar, Iyswarya Narayanan, Timothy Zhu, Anand Sivasubramaniam. In the Web Conference (WWW), 2020
-- Mediating Power Struggles on a Shared Server. Iyswarya Narayanan, Anand Sivasubramaniam. In International Symposium on Performance Analysis of Systems and Software (ISPASS), April 2020.
+- Mediating Power Struggles on a Shared Server. Iyswarya Narayanan, Anand Sivasubramaniam. In International Symposium on Performance Analysis of Systems and Software (ISPASS), April 2020. _Best Paper Award_.
 - Getting More Performance with Polymorphism from Emerging Memory Technologies, Iyswarya Narayanan, Aishwarya Ganesan, Anirudh Badam, Sriram Govindan, Bikash Sharma, Anand Sivasubramaniam. In International Systems and Storage Conference (SYSTOR), 2019.
 - Evaluating Energy Storage for a Multitude of Uses in the Datacenter, Iyswarya Narayanan, Di Wang, Abdullah-al Mamun, Anand Sivasubramaniam, Hosam K. Fathy, Sean James. In International Symposium on Workload Characterization (IISWC) 2017. 
 “Right-sizing Geo-distributed Data Centers for Availability and Latency. Iyswarya Narayanan, Aman Kansal, Anand Sivasubramaniam. In International Conference on Distributed Computing Systems (ICDCS), 2017.  
