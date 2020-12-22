@@ -4,7 +4,7 @@ I'm broadly interested in datacenter scale computing with a focus on capacity pr
 
 ## News
 
-Invited to serve in the Program Committee of (ICDCS 2021)[https://icdcs2021.us/]!
+Invited to serve in the Program Committee of [ICDCS 2021](https://icdcs2021.us/).
 
 ## Publications
 - Pocolo: Power Optimized Colocation in Power Constrained Environments. Iyswarya Narayanan, Adithya Kumar, Anand Sivasubramaniam . In International Symposium on Workload Characterization (IISWC) 2020
